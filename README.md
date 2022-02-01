@@ -7,3 +7,6 @@ types fuck off at a whopping 80 ms
 
 #2021 October
 Linux version will be made in python
+
+#2022 Febuary 
+am i even capable of making this?
