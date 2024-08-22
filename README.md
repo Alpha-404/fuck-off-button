@@ -12,3 +12,7 @@ Linux version will be made in python
 # 2022 Febuary 
 
 am i even capable of making this?
+
+# 2024 August
+
+nah its gonna be made
